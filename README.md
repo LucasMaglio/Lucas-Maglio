@@ -25,7 +25,9 @@ Sou apaixonado por tecnologia, programação e sempre buscando aprender e compar
 💡 Ideias em desenvolvimento
 
 📊 Estatísticas do GitHub
+
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=LucasMaglio&show_icons=true&theme=radical)
+
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=LucasMaglio&show_icons=true&theme=tokyonight)
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMaglio&layout=compact&theme=tokyonight)
