@@ -2,6 +2,7 @@
 👋 Olá, eu sou o Lucas Mascarenhas
 
 Bem-vindo ao meu perfil do GitHub! 🚀
+
 Sou apaixonado por tecnologia, programação e sempre buscando aprender e compartilhar conhecimento.
 
 🔧 Tecnologias e Ferramentas
